@@ -6,6 +6,9 @@ Improvements to be made:
 pacmen disappear individually after a condition is met 
 
 How to Run:
+
 Download all related files 
+
 Open the files on VS code
+
 Upload HTML file onto blank webpage.
